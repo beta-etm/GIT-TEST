@@ -1,0 +1,19 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "test directory to learn node and git",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beta-etm/GIT-TEST.git"
+  },
+  "author": "Betiel Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beta-etm/GIT-TEST/issues"
+  },
+  "homepage": "https://github.com/beta-etm/GIT-TEST#readme"
+}
